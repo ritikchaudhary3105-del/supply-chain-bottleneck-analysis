@@ -46,7 +46,7 @@ to identify bottlenecks and provide actionable business insights.
 
 
 
-![Supply Chain Dashboard](dashboard/bottleneck_visuals.png)
+![Supply Chain Dashboard](bottleneck_visuals.png)
 
 
 

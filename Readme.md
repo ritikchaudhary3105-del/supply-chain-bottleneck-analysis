@@ -66,11 +66,13 @@ to identify bottlenecks and provide actionable business insights.
 
 ## 💡 Business Recommendations
 
-1.🚫 Avoid Standard Class shipping for high-value orders
-2.🌍 Investigate supplier reliability in high-delay regions
-3.📦 Prioritize top 10 delayed product categories
-4.💰 Focus on on-time delivery to protect profit margins
----
+1. 🚫 **Avoid Standard Class shipping** for high-value orders
+
+2. 🌍 **Investigate supplier reliability** in high-delay regions
+
+3. 📦 **Prioritize top 10 delayed** product categories
+
+4. 💰 **Focus on on-time delivery** to protect profit margins
 
 ## 🛠️ Tech Stack
 
